@@ -1,4 +1,4 @@
-# Visit my site here
+# Visit the deployed app here
 ### [Click here](https://dare-marvel.github.io/Task-Manager-App-using-React/)
 
 # Getting Started with Create React App
